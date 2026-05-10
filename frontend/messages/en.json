@@ -1,0 +1,13 @@
+{
+  "Index": {
+    "title": "GST Invoice & Employee Management",
+    "login": "Login with Google",
+    "welcome": "Welcome back",
+    "dashboard": "Dashboard",
+    "invoices": "Invoices",
+    "attendance": "Attendance",
+    "reports": "Reports",
+    "contact": "Contact Us",
+    "logout": "Logout"
+  }
+}
